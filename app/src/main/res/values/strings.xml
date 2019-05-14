@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="textViewName">Enter name:</string>
+    <string name="editTextName">""</string>
+    <string name="textViewNumber">Enter mobile number:</string>
+    <string name="editTextNumber">""</string>
+    <string name="textViewSizeGroup">Size Group:</string>
+    <string name="editTextSizeGroup">""</string>
+    <string name="smokingArea">Table in smoking area?</string>
+    <string name="reservation">Reservation</string>
+    <string name="reset">Reset</string>
+    <string name="textViewDate">Enter Date:</string>
+    <string name="textViewTime">Enter Time:</string>
+
+</resources>
